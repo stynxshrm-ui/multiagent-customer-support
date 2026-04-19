@@ -3,7 +3,7 @@ import sys
 import warnings
 import os
 
-from multiagent_customer_support.crew import SaaSSupportCrew
+from multiagent-customer-support.crew import SaSSupportCrew
 
 
 def run():
